@@ -2,6 +2,7 @@
   "name": "moneycontrol",
   "version": "1.0.0",
   "description": "A node App",
+  "readme": "README.md",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/Rambo93/moneycontrol/issues"
   },
-  "homepage": "https://github.com/Rambo93/moneycontrol"
+  "homepage": "https://github.com/Rambo93/moneycontrol",
+  "dependencies": {
+    "express": "^4.12.4",
+    "monk": "^1.0.1"
+  }
 }
