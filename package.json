@@ -1,0 +1,19 @@
+{
+  "name": "moneycontrol",
+  "version": "1.0.0",
+  "description": "A node App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Rambo93/moneycontrol.git"
+  },
+  "author": "Matias Ezequiel Mastronardi Mayer",
+  "license": "GNUv2",
+  "bugs": {
+    "url": "https://github.com/Rambo93/moneycontrol/issues"
+  },
+  "homepage": "https://github.com/Rambo93/moneycontrol"
+}
